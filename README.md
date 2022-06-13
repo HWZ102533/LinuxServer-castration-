@@ -128,7 +128,7 @@ Now,you can use clion software compile and run the code.
 # Contribute
 If you find this project helpful, feel free to invite the author for coffee,thank you! 
 
-![image](https://github.com/HWZ102533/LinuxServer-castration-/blob/main/DFC_CAD/pay.PNG)
+![image](https://github.com/HWZ102533/LinuxServer-castration-/blob/main/DFC_CAD/pay2.PNG)
 
 If you want to obtain the completed version, please contact email:hwz102533@gmail.com.(Tip: Not free)
 
