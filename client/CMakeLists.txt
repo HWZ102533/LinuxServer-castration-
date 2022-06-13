@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.19.2)
+project(client)
+
+set(CMAKE_CXX_STANDARD 14)
+SET(CMAKE_CXX_FLAGS -pthread)
+link_libraries(libboost_json.so)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+link_directories(${PROJECT_SOURCE_DIR}/lib)
+add_executable(client main.cpp CSocket.cpp CSocket.h CCrypto.h CCrypto.cpp CCryptoAES.h CCryptoAES.cpp CProtocol.h CProtocol.cpp CProtocolHttp.h CProtocolHttp.cpp CTimeWheel.cpp CTimeWheel.h)
+target_link_libraries(client libcrypto.a)
