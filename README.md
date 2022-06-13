@@ -18,10 +18,10 @@ Database system：mariadb(Asynchronous connection pool by libevent)
 Disk I/O:libaio.
 
 # Class diagram
-![image](https://github.com/HWZ102533/LinuxServer/blob/main/DFC_CAD/class.png)
+![image](https://github.com/HWZ102533/LinuxServer-castration-/blob/main/DFC_CAD/class.png)
 
 # Thread model
-![image](https://github.com/HWZ102533/LinuxServer/blob/main/DFC_CAD/threadModel.PNG)
+![image](https://github.com/HWZ102533/LinuxServer-castration-/blob/main/DFC_CAD/threadModel.PNG)
 
 # Environment set up
 1.install centos7 GNU system.
@@ -128,6 +128,6 @@ Now,you can use clion software compile and run the code.
 # Contribute
 If you find this project helpful, feel free to invite the author for coffee,thank you! 
 
-If you have any questions, please contact email:hwz102533@gmail.com.
+If you want to obtain the completed version, please contact email:hwz102533@gmail.com.(Tip: Not free)
 
 
